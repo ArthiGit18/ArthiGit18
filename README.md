@@ -36,6 +36,8 @@ I'm a passionate **Web Developer** specializing in creating dynamic, responsive,
 ### 🌟 Projects & Contributions
 I work on various web development projects using a range of technologies to enhance user experience and functionality. I enjoy experimenting with new tools and approaches to deliver robust solutions.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🌐 Connect with Me
 Feel free to reach out or connect with me on any of these platforms:
 
