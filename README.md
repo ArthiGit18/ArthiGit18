@@ -38,6 +38,12 @@ I work on various web development projects using a range of technologies to enha
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### My GitHub Repositories
+
+- [Gadgets Website](https://github.com/ArthiGit18/Gadgets-Website)
+- [Watch Webpage](https://github.com/ArthiGit18/Watch-Webpage)
+- [Product List](https://github.com/ArthiGit18/Product-List)
+
 ### 🌐 Connect with Me
 Feel free to reach out or connect with me on any of these platforms:
 
