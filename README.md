@@ -38,12 +38,26 @@ I work on various web development projects using a range of technologies to enha
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My GitHub Repositories
+# Gadget Bazar
 
-- [Gadgets Website](https://github.com/ArthiGit18/Gadgets-Website)
-- [Watch Webpage](https://github.com/ArthiGit18/Watch-Webpage)
-- [Product List](https://github.com/ArthiGit18/Product-List)
+A modern e-commerce platform for gadgets.
+#### Live Demo 🌐
 
+Check out the live demo of this project here: [Gadget Bazar](https://gadgetbazar.netlify.app/) 📱
+
+#### Features ✨
+
+- Modern UI/UX design 🎨
+- Responsive layouts 📱
+- Product listings with detailed descriptions 🛍️
+- Interactive actions like "View" and "Buy Now" 🖱️
+
+#### Technologies Used 💻
+
+- React.js ⚛️
+- MUI 🧩
+- Netlify for deployment 🌐
+  
 ### 🌐 Connect with Me
 Feel free to reach out or connect with me on any of these platforms:
 
