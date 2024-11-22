@@ -38,11 +38,12 @@ I work on various web development projects using a range of technologies to enha
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Gadget Bazar
-
-A modern e-commerce platform for gadgets.
+## Travel Website
 #### Live Demo 🌐
+Check out the live demo of this project here: [Travel Website](https://tricktravelwebsite.netlify.app/) 📱
 
+## Gadget Bazar
+#### Live Demo 🌐
 Check out the live demo of this project here: [Gadget Bazar](https://gadgetbazar.netlify.app/) 📱
 
 #### Features ✨
