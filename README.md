@@ -46,6 +46,10 @@ Check out the live demo of this project here: [Travel Website](https://tricktrav
 #### Live Demo 🌐
 Check out the live demo of this project here: [Gadget Bazar](https://gadgetbazar.netlify.app/) 📱
 
+## Crime Chronicles
+#### Live Demo 🌐
+Check out the live demo of this project here: [Gadget Bazar](https://crimerecords.netlify.app/) 📱
+
 #### Features ✨
 
 - Modern UI/UX design 🎨
@@ -53,11 +57,6 @@ Check out the live demo of this project here: [Gadget Bazar](https://gadgetbazar
 - Product listings with detailed descriptions 🛍️
 - Interactive actions like "View" and "Buy Now" 🖱️
 
-#### Technologies Used 💻
-
-- React.js ⚛️
-- MUI 🧩
-- Netlify for deployment 🌐
   
 ### 🌐 Connect with Me
 Feel free to reach out or connect with me on any of these platforms:
