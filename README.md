@@ -48,7 +48,7 @@ Check out the live demo of this project here: [Gadget Bazar](https://gadgetbazar
 
 ## Crime Chronicles
 #### Live Demo 🌐
-Check out the live demo of this project here: [Gadget Bazar](https://crimerecords.netlify.app/) 📱
+Check out the live demo of this project here: [Crime Chronicles](https://crimerecords.netlify.app/) 📱
 
 #### Features ✨
 
