@@ -38,6 +38,10 @@ I work on various web development projects using a range of technologies to enha
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Chat Application website
+#### Live Demo 🌐
+Check out the live demo of this project here: [Chat Application Website](https://chatapplication-20.netlify.app/) 📱
+
 ## Travel Website
 #### Live Demo 🌐
 Check out the live demo of this project here: [Travel Website](https://tricktravelwebsite.netlify.app/) 📱
