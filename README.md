@@ -36,7 +36,9 @@ I'm a passionate **Web Developer** specializing in creating dynamic, responsive,
 ### 🌟 Projects & Contributions
 I work on various web development projects using a range of technologies to enhance user experience and functionality. I enjoy experimenting with new tools and approaches to deliver robust solutions.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## EduTech Learning Application website
+#### Live Demo 🌐
+Check out the live demo of this project here: [Learning Application Website](https://edutechlearners.netlify.app/) 📱
 
 ## Chat Application website
 #### Live Demo 🌐
